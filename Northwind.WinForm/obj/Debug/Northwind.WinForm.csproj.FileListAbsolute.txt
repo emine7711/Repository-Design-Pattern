@@ -1,0 +1,20 @@
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.Properties.Resources.resources
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.GenerateResource.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.exe
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.Form1.resources
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.exe
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\bin\Debug\Northwind.WinForm.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.Form1.resources
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.Properties.Resources.resources
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.GenerateResource.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.exe
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WinForm\obj\Debug\Northwind.WinForm.pdb

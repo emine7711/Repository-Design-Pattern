@@ -1,0 +1,42 @@
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.xml
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csproj.CopyComplete
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.DTO.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Extensions.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.DTO.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.WCF\bin\Northwind.Extensions.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.WCF.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.DTO.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Extensions.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.DTO.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Entity.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Extensions.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\Northwind.Repository.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.xml
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.csproj.CopyComplete
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\obj\Debug\Northwind.WCF.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.WCF\bin\EntityFramework.SqlServer.xml

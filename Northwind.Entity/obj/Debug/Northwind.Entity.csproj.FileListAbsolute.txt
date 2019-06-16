@@ -1,0 +1,24 @@
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CopyComplete
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.xml
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CopyComplete
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Entity\obj\Debug\Northwind.Entity.pdb

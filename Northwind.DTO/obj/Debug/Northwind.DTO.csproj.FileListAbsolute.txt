@@ -1,0 +1,11 @@
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.DTO\bin\Debug\Northwind.DTO.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.DTO\bin\Debug\Northwind.DTO.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\bin\Debug\Northwind.DTO.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\bin\Debug\Northwind.DTO.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.DTO\obj\Debug\Northwind.DTO.pdb

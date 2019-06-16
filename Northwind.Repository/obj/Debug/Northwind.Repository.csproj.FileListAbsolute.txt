@@ -1,0 +1,30 @@
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.pdb
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.dll.config
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csproj.CopyComplete
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.dll
+C:\Users\Wissen\source\repos\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Repository.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.pdb
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\Northwind.Entity.dll.config
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.xml
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csprojAssemblyReference.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csproj.CoreCompileInputs.cache
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.csproj.CopyComplete
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.dll
+C:\Users\EMİNE\Desktop\NT-DesignPattern (1)\NT-DesignPattern\Northwind.Repository\obj\Debug\Northwind.Repository.pdb
